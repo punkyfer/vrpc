@@ -1,0 +1,11 @@
+dwave-neal==0.5.9
+dwave-qbsolv==0.3.4
+matplotlib==3.6.0
+numpy==1.23.3
+ortools==9.4.1874
+pandas==1.5.0
+pyqubo==1.2.0
+scikit-learn==1.1.2
+scipy==1.9.1
+xmltodict==0.13.0
+diptest==0.5.1
